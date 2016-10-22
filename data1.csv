@@ -1,0 +1,8 @@
+Fever,Vomitting,Diarrhea,Shivering,Classification
+no,no,no,no,H
+average,no,no,no,I
+high,no,no,yes,I
+high,yes,yes,no,S
+average,no,yes,no,S
+no,yes,yes,no,B
+average,yes,yes,no,B

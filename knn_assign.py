@@ -1,4 +1,4 @@
-	#Karthik V
+#Karthik V
 #Assigment on Machine Learning to implemet weighted average knn 
 #Opening a file
 
